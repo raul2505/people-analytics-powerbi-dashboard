@@ -131,7 +131,10 @@ people-analytics-powerbi-dashboard/
 │   └── dashboard_preview.png
 │
 └── powerbi/
-    └── salud_organizacional.pbix
+│  └── salud_organizacional.pbix
+│
+├── datos/
+│   └── datos.xlsx
 ```
 
 El archivo `.pbix` solo debe incluirse en el repositorio público si su contenido y sus conexiones están autorizados para divulgación.
