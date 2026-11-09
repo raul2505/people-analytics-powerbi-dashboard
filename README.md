@@ -31,7 +31,7 @@ Ante esta situación, surge la necesidad de contar con una herramienta analític
 
 ![Dashboard de Salud Organizacional](images/dashboard_preview.jpg)
 
-> **Nota:** Agregar una captura del dashboard en la carpeta `images` con el nombre `dashboard_preview.png`.
+> **Nota:** Agregar una captura del dashboard en la carpeta `images` con el nombre `dashboard_preview.jpg`.
 
 ## 🎯 Objetivos del análisis
 
