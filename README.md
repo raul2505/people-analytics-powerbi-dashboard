@@ -29,7 +29,7 @@ Ante esta situación, surge la necesidad de contar con una herramienta analític
 
 ## 📈 Vista previa del dashboard
 
-![Dashboard de Salud Organizacional](images/dashboard_preview.png)
+![Dashboard de Salud Organizacional](images/dashboard_preview.jpg)
 
 > **Nota:** Agregar una captura del dashboard en la carpeta `images` con el nombre `dashboard_preview.png`.
 
