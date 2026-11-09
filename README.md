@@ -391,8 +391,6 @@ people-analytics-powerbi-dashboard/
     └── datos.xlsx
 ```
 
-Los archivos de datos y Power BI deben publicarse únicamente cuando exista autorización para compartir su contenido.
-
 ---
 
 ## 👨‍💻 Autor
